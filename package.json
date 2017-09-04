@@ -1,0 +1,24 @@
+{
+  "name": "wepack-practice",
+  "version": "1.0.1",
+  "description": "wepack-practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aladingding/WebpackX.git"
+  },
+  "keywords": [
+    "tomy's",
+    "webpack",
+    "practice"
+  ],
+  "author": "tomy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aladingding/WebpackX/issues"
+  },
+  "homepage": "https://github.com/Aladingding/WebpackX#readme"
+}
